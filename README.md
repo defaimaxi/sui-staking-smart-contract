@@ -1,6 +1,10 @@
 # Sui Staking Smart Contract
 
- This project implements a robust staking mechanism on the Sui blockchain, enabling users to stake their SUI tokens and earn rewards over a specified duration.
+ This project implements a robust staking mechanism on the Sui blockchain, enabling users to stake their SUI tokens and earn rewards over a specified duration.##Dev
+## Dev
+- Telegram: [@defai_maxi](https://t.me/defai_maxi)
+- Twitter: [@defai_maxi](https://x.com/defai_maxi)
+
 ## Overview
 - RewardState: Tracks reward-related parameters such as duration, finish time, and reward rate.
 
